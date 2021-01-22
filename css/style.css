@@ -343,5 +343,6 @@ pre {
     }
     .showcase-form {
         width: 100vw;
+        overflow: hidden;
     }
 }
