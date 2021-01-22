@@ -341,4 +341,7 @@ pre {
     .navbar nav {
         background: rgba(0, 0, 0, 0.2);
     }
+    .showcase-form {
+        width: 100vw;
+    }
 }
